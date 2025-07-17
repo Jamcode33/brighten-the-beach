@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffcc70, #f78ca0, #a8edea);
+    color: #333;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background: #fff;
+    padding: 20px;
+}
+.tagline {
+    font-size: 1.2em;
+    color: #e94e77;
+}
+section {
+    margin: 40px 20px;
+}
+form input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 80%;
+    max-width: 400px;
+}
+form button {
+    background-color: #e94e77;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+footer {
+    background: #f4f4f4;
+    padding: 20px;
+    font-size: 0.9em;
+}
